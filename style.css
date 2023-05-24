@@ -69,6 +69,7 @@
   .esas {
     flex-direction: column;
     justify-content: center;
+    width: 100%;
   }
   .color-box {
     height: auto;
@@ -83,7 +84,6 @@
   }
   #ortada {
     margin: 0;
-    width: 100%;
     height: 100%;
   }
   .esas {
